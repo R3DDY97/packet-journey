@@ -1,13 +1,26 @@
-# packet-journey
+# __packet-journey__
 
-use traceroute in python3
+___use traceroute in python3___
+___
 
 ## Usage:
 
-`$ git clone https://github.com/R3DDY97/packet-journey`
 
-`$ cd packet-journey`
+```bash
+$ git clone https://github.com/R3DDY97/packet-journey
 
-`$ chmod +x trace_ip.py`
+$ cd packet-journey
 
-`$ sudo ./trace_ip.py hostname`
+$ chmod +x trace_ip.py
+
+$ sudo ./trace_ip.py hostname
+```
+___
+
+
+## DEMO
+
+[![asciicast](https://asciinema.org/a/og6xeYMYbAi92DhYy3fXbYFTX.png)](https://asciinema.org/a/og6xeYMYbAi92DhYy3fXbYFTX)
+
+[asciicast demo link](https://asciinema.org/a/og6xeYMYbAi92DhYy3fXbYFTX "Demo page")
+___
