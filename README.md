@@ -1,6 +1,6 @@
 # __packet-journey__
 
-___use traceroute in python3___
+___traceroute in python3___
 ___
 
 ## Usage:
